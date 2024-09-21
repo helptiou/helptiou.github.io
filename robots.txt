@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://helptiou.github.io/sitemap.html.gz
+Sitemap: https://helptiou.github.io/app/sitemap.html.gz
+Sitemap: https://helptiou.github.io/assets/sitemap.html.gz
+Sitemap: https://helptiou.github.io/css/sitemap.html.gz
+Sitemap: https://helptiou.github.io/data/sitemap.html.gz
+Sitemap: https://helptiou.github.io/includes/sitemap.html.gz
+Sitemap: https://helptiou.github.io/item/sitemap.html.gz
+Sitemap: https://helptiou.github.io/src/sitemap.html.gz
